@@ -7,7 +7,7 @@ The purpose of this project is to create a way for the  United States Geological
 
 ### Earthquakes
 The data for all earthquakes that have occurred in the last seven days are displayed, when the 'Earthquake' layer is applied. Additional, information about the location and magnitude of the earthquake can be found be clicking on a cirlcle. 
-![](static/images//earthquakes.jpg)
+![](Earthquake_Challenge/static/images//earthquakes.jpg)
 
 ### Tectonic Plates
 The tectonic plate data was added to the map, to allow users to view all of the known plates globally.  Additional, information about the location and magnitude of the earthquake can be found be clicking on a cirlcle. 
